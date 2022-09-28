@@ -1,2 +1,2 @@
-# CENG501DeepLearning
-METU CENG 501, Deep Learning Projects
+# Deep Learning
+METU CENG, Deep Learning Projects following Stanford's CS231n assignments
